@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\pizzas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\pizzas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\pizzas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\pizzas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\pizzas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\pizzas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\pizzas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\pizzas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\pizzas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\pizzas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml",
+              "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T15:03:28.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml",
+              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml",
+              "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T14:57:14.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml",
+              "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T14:51:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "pizza_mama\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Models\\Pizza.cs",
+              "RelativeToolTip": "pizza_mama\\Models\\Pizza.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:44:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
+              "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:36:03.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
+              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
+              "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwC8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T14:36:02.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
