@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vI+ngyQoDpk=",
+  "dgSpecHash": "XzqjqeHON/Y=",
   "success": true,
-  "projectFilePath": "Y:\\Code\\Udemy\\Ude-Unity-C#\\Développeur C# - CODEAVECJonathan\\Pizza_mama\\pizza_mama\\pizza_mama.csproj",
+  "projectFilePath": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\pizza_mama.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\19\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\19\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
