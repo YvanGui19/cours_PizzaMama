@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,19 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pizza_mama\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T07:37:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Index.cshtml.cs",
               "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Index.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T16:10:40.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Startup.cs",
               "RelativeDocumentMoniker": "pizza_mama\\Startup.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Index.cshtml",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Delete.cshtml",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Create.cshtml",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Edit.cshtml",
@@ -184,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Pizza.cs",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Models\\Pizza.cs",
               "RelativeDocumentMoniker": "pizza_mama\\Models\\Pizza.cs",
@@ -196,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
