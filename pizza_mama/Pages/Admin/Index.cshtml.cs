@@ -5,11 +5,17 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Collections.Generic;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 
 namespace pizza_mama.Pages.Admin
 {
     public class IndexModel : PageModel
     {
+        IConfiguration configuration;
+        public IndexModel(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+        }
         public IActionResult OnGet()
         {
             if (HttpContext.User.Identity.IsAuthenticated)
@@ -22,7 +28,12 @@ namespace pizza_mama.Pages.Admin
 
         public async Task<IActionResult> OnPostAsync(string username, string password, string ReturnUrl)
         {
-            if (username == "admin")
+            var authSection = configuration.GetSection("Auth");
+
+            string adminLogin = authSection["AdminLogin"];
+            string adminPassword = authSection["AdminPassword"];
+
+            if ((username == adminLogin)&&(password == adminPassword))
             {
                 var claims = new List<Claim>
                 { 
