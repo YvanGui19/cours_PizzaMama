@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\menupizzas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\menupizzas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\pizzas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\pizzas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\menupizzas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\menupizzas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\menupizzas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\menupizzas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\admin\\pizzas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\pages\\admin\\pizzas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|solutionrelative:pizza_mama\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C257776B-AD05-4269-9770-DE1F54B33630}|pizza_mama\\pizza_mama.csproj|c:\\users\\19\\code\\udemy\\ude-unity-c#\\code_avec_jo\\appliweb\\pizza_mama\\pizza_mama\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,45 +38,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "pizza_mama\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "pizza_mama\\wwwroot\\css\\style.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-31T09:44:14.005Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "pizza_mama\\Pages\\Index.cshtml*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T12:58:41.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
-              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
-              "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T09:20:56.168Z",
+              "DocumentIndex": 5,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "pizza_mama\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Models\\Pizza.cs",
+              "RelativeToolTip": "pizza_mama\\Models\\Pizza.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:39:42.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
-              "RelativeToolTip": "pizza_mama\\Pages\\Admin\\Pizzas\\Index.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Startup.cs",
+              "RelativeDocumentMoniker": "pizza_mama\\Startup.cs",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Startup.cs",
+              "RelativeToolTip": "pizza_mama\\Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T09:20:56.075Z",
+              "WhenOpened": "2024-05-31T12:29:16.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "pizza_mama\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "pizza_mama\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-31T09:44:14.005Z",
               "EditorCaption": ""
             },
             {
@@ -83,33 +100,33 @@
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\MenuPizzas.cshtml.cs",
               "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\MenuPizzas.cshtml.cs",
               "RelativeToolTip": "pizza_mama\\Pages\\MenuPizzas.cshtml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwA8AAAAfAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T09:19:15.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MenuPizzas.cshtml",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\MenuPizzas.cshtml",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\MenuPizzas.cshtml",
-              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\MenuPizzas.cshtml*",
-              "RelativeToolTip": "pizza_mama\\Pages\\MenuPizzas.cshtml*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABRAAAA",
+              "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\MenuPizzas.cshtml",
+              "RelativeToolTip": "pizza_mama\\Pages\\MenuPizzas.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-31T08:58:02.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "pizza_mama\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\19\\Code\\Udemy\\Ude-Unity-C#\\CODE_AVEC_JO\\AppliWeb\\Pizza_mama\\pizza_mama\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "pizza_mama\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-31T07:37:58.625Z",
               "EditorCaption": ""
