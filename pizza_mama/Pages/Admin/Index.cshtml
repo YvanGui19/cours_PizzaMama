@@ -4,6 +4,14 @@
 }
 
 <h1>Authentification</h1>
+
+@if (Model.DisplayInvalidAccountMessage)
+{
+    <br />
+    <div class="alert alert-danger" role="alert">Compte invalide</div>
+}
+
+
 <br />
 <form method="post">
     <input type="text" name="username" placeholder="Login"><br /><br />

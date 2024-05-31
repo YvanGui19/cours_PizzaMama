@@ -11,6 +11,8 @@ namespace pizza_mama.Pages.Admin
 {
     public class IndexModel : PageModel
     {
+        public bool DisplayInvalidAccountMessage = false;
+
         IConfiguration configuration;
         public IndexModel(IConfiguration configuration)
         {
@@ -35,6 +37,7 @@ namespace pizza_mama.Pages.Admin
 
             if ((username == adminLogin)&&(password == adminPassword))
             {
+                DisplayInvalidAccountMessage = false;
                 var claims = new List<Claim>
                 { 
                     new Claim(ClaimTypes.Name, username)
@@ -45,6 +48,7 @@ namespace pizza_mama.Pages.Admin
                 return Redirect(ReturnUrl == null ? "/Admin/Pizzas" : ReturnUrl);
             }
 
+            DisplayInvalidAccountMessage = true;
             return Page();
         }
 
