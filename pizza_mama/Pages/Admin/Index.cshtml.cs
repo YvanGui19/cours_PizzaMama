@@ -10,9 +10,15 @@ namespace pizza_mama.Pages.Admin
 {
     public class IndexModel : PageModel
     {
-        public void OnGet()
+        public IActionResult OnGet()
         {
+            if (HttpContext.User.Identity.IsAuthenticated)
+            {
+                return Redirect("/Admin/Pizzas");
+            }
+            return Page();
         }
+
 
         public async Task<IActionResult> OnPostAsync(string username, string password, string ReturnUrl)
         {
