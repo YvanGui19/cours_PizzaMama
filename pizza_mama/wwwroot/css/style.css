@@ -1,0 +1,15 @@
+﻿li{
+    color: blue;
+}
+
+body{
+    background: url("/images/menu_background.jpg") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#small_logo {
+    margin: 25px 0px 0px 35px;
+}

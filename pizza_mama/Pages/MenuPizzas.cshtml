@@ -5,18 +5,24 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+    <link rel="stylesheet" href="~/css/style.css" />
     <title>Menu des pizzas</title>
 </head>
 <body>
-    <h1>Menu des pizzas</h1>
-    <a asp-page="Index">Retour à l'accueil</a>
+    <a asp-page="Index">
+        <img id="small_logo" src="~/images/small_logo.png" />
+    </a>
+
+    <h1>Les pizzas</h1>
 
     @foreach (var pizza in Model.Pizza)
     {
         <ul>
-            <li>@pizza.nom</li>
+            <li>@pizza.nom - @pizza.prix€</li>
         </ul>
     }
+
+    
 
 
 </body>
