@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>pizza_mama.Data.DataContext</WebStackScaffolding_DbContextTypeFullName>
     <RazorPage_SelectedScaffolderID>RazorPageScaffolder</RazorPage_SelectedScaffolderID>
     <RazorPage_SelectedScaffolderCategoryPath>root/Common/RazorPage</RazorPage_SelectedScaffolderCategoryPath>
+    <NameOfLastUsedPublishProfile>C:\Users\19\Code\Udemy\Ude-Unity-C#\CODE_AVEC_JO\AppliWeb\Pizza_mama\pizza_mama\Properties\PublishProfiles\pizzamamaformation - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

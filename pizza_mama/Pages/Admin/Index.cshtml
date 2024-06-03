@@ -3,6 +3,12 @@
 @{
 }
 
+@if (Model.IsDevelopmentMode)
+{
+    <p>MODE DÉVELOPPEMENT</p>
+}
+
+
 <h1>Authentification</h1>
 
 @if (Model.DisplayInvalidAccountMessage)
