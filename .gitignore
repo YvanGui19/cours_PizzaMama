@@ -7,3 +7,4 @@ bin/
 obj/
 .vs/
 
+/pizza_mama/appsettings.json
